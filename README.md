@@ -32,8 +32,8 @@ Diseño e implemento **automatizaciones con IA** y **aplicaciones web a medida**
 
 | Proyecto | Qué es | En vivo |
 |---|---|---|
-| **Facturion** | SaaS contable (FastAPI + PostgreSQL): facturas, asientos contables automáticos y modelos AEAT (303/115/111/349). Multi-tenant. | [facturion.gonzalfred.com](https://facturion.gonzalfred.com) |
-| **Smart-CRM** | CRM inteligente para captación: pipeline, tareas, agenda, documentos y analítica. Se adapta al sector. | [smart-crm.gonzalfred.com](https://smart-crm.gonzalfred.com) |
+| **Facturion** | SaaS contable (FastAPI + PostgreSQL): facturas, asientos contables automáticos y modelos AEAT (303/115/111/349). Multi-tenant. | [demo en vivo](https://demo-facturion.gonzalfred.com/app.html) (sin login) |
+| **Smart-CRM** | CRM inteligente para captación: pipeline, tareas, agenda, documentos y analítica. Se adapta al sector. | [demo en vivo](https://smart-crm.gonzalfred.com/app.html) (sin login) |
 | **Automatizaciones n8n** | Captación de leads, auto-publicación multi-red (LinkedIn/Instagram/TikTok), OCR con IA y chatbots conectados a IA. | — |
 | **Experiencias web 3D** | Visualizaciones técnicas interactivas con Three.js (despieces, configuradores, hero animado). | — |
 
