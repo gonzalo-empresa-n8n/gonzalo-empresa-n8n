@@ -36,6 +36,7 @@ Diseño e implemento **automatizaciones con IA** y **aplicaciones web a medida**
 | **Smart-CRM** | CRM inteligente para captación: pipeline, tareas, agenda, documentos y analítica. Se adapta al sector. | [demo en vivo](https://smart-crm.gonzalfred.com/app.html) (sin login) |
 | **Automatizaciones n8n** | Captación de leads, auto-publicación multi-red (LinkedIn/Instagram/TikTok), OCR con IA y chatbots conectados a IA. | — |
 | **Experiencias web 3D** | Visualizaciones técnicas interactivas con Three.js (despieces, configuradores, hero animado). | — |
+| **Web Gonzalo-IA** | Web corporativa (React + Vite + Tailwind): landing, asistente IA, reserva de cita y contacto. | [gonzalfred.com](https://gonzalfred.com) |
 
 ### 📫 Hablemos
 
